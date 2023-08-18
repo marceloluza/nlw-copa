@@ -37,6 +37,10 @@ O calendário da copa é um projeto que mostra os jogos da copa do mundo de 2022
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
+## 🔗 Acesso
+
+[Clique aqui para acessar](https://marceloluza.github.io/nlw-copa)
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
